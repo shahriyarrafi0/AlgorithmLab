@@ -30,6 +30,7 @@ int GreedyApproachCoinChagne(int amount, int change[]){
     }
     return count;
 }
+        
 
 int main(void) {
     int change[10]; // This needs to be dynamic
